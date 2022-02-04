@@ -8,7 +8,7 @@ def busqueda_lineal(lista, objetivo):
             match = True
             break
 
-    return match
+    return match    
 
 
 if __name__ == '__main__':
